@@ -1,0 +1,16 @@
+Name = hapi-decorators, stars = 65, tests = 1.0, downloads = 3933, freq = 0.9
+Name = hashmap, stars = 379, tests = 0.6, downloads = 110626, freq = 0.9
+Name = hexo-cli, stars = 158, tests = 0.9265, downloads = 93841, freq = 0.9
+Name = Base64, stars = 459, tests = 0.55, downloads = 1545092, freq = 0.7591609589041095
+Name = ab-testing, stars = 45, tests = 0.6, downloads = 17629, freq = 0.9
+Name = abab, stars = 85, tests = 0.6, downloads = 76833298, freq = 0.9
+Name = abstract-socket, stars = 24, tests = 0.6, downloads = 50028, freq = 0.9
+Name = hexo-generator-sitemap, stars = 211, tests = 1.0, downloads = 13767, freq = 0.9209760273972603
+Name = date-arithmetic, stars = 51, tests = 0.6, downloads = 894638, freq = 0.9
+Name = db-migrate-mysql, stars = 47, tests = 0.6, downloads = 100130, freq = 0.777654109589041
+Name = dbffile, stars = 74, tests = 0.6, downloads = 4214, freq = 1.0
+Name = dcl, stars = 75, tests = 0.997, downloads = 567, freq = 0.9
+Name = deep-equal, stars = 704, tests = 0.997, downloads = 59083642, freq = 0.9
+Name = epub, stars = 262, tests = 0.85, downloads = 1454, freq = 0.7591609589041095
+Name = krb5, stars = 25, tests = 0.6, downloads = 379, freq = 0.8308219178082192
+Name = lower-case, stars = 1776, tests = 0.75, downloads = 71494454, freq = 0.7622431506849314
